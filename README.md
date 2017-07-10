@@ -1,1 +1,1 @@
-#Test Node JS app to use with Chef config testing. 
+#Test Node JS app to use for deployment testing
