@@ -1,10 +1,13 @@
 {
   "name": "hellonode",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "",
   "main": "app.js",
   "dependencies": {
     "express": "^4.15.3"
+  },
+  "engines": {
+    "node": ">=6.11.3"
   },
   "devDependencies": {},
   "scripts": {
